@@ -19,7 +19,7 @@ I am uploading my python notebook which I have made by basing on the Big Molecul
 
 Your assignment for the first week is to take any dataset on kaggle, and submit a python notebook showing how you have answered the above four questions and completed preprocessing on the dataset. I would advise you to run the dataset by me before you use it so that you don't end up wasting your time.
 
-The deadline to submit is Monday EOD.
+The deadline to submit is Saturday EOD.
 
 Feel free to ping me incase of any doubts.
 
